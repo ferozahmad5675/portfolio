@@ -46,7 +46,7 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2> Front-End</h2>
-            <span>ReactJS, Redux, HTML, CSS, BootStrap, MaterialUI</span>
+            <span>ReactJS, Redux, HTML, CSS, BootStrap, Nextjs</span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
