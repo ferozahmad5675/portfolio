@@ -2,8 +2,16 @@ import pic1 from "../assets/pic1.PNG";
 import pic2 from "../assets/pic2.PNG";
 import pic3 from "../assets/pic3.PNG";
 import pic4 from "../assets/pic4.PNG";
+import pic0 from "../assets/pic0.PNG";
 
 export const ProjectList = [
+  {
+    name: "Todo List ",
+    image: pic0,
+    skills: "React JS,HTML,CSS",
+    link: "https://todolist-q65n.onrender.com/",
+    desc: "You Can Add the items Then The item Shows in The List Form And You Can Delete the Ites As Well",
+  },
   {
     name: "Ecommerce Website",
     image: pic4,
