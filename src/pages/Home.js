@@ -1,6 +1,5 @@
 import React from "react";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import EmailIcon from "@mui/icons-material/Email";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import "../styles/Home.css";
 import { Link } from "react-router-dom";
@@ -46,7 +45,10 @@ function Home() {
         <ol className="list">
           <li className="item">
             <h2> Front-End</h2>
-            <span>ReactJS, Redux, HTML, CSS, BootStrap, Nextjs</span>
+            <span>
+              React JS, Redux, HTML, CSS, React-Bootstrap , Redux-Toolkit ,
+              Formik And Yup
+            </span>
           </li>
           <li className="item">
             <h2>Back-End</h2>

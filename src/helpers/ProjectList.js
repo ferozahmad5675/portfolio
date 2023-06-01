@@ -3,6 +3,7 @@ import pic2 from "../assets/pic2.PNG";
 import pic3 from "../assets/pic3.PNG";
 import pic4 from "../assets/pic4.PNG";
 import pic0 from "../assets/pic0.PNG";
+import pic from "../assets/pic.PNG";
 
 export const ProjectList = [
   {
@@ -18,6 +19,13 @@ export const ProjectList = [
     skills: "React JS,HTML,CSS",
     link: "http://feroz-ecommerce-app.netlify.app/",
     desc: "This Project Contains Header , Footer , Sliders And Many More Funtionality Also its Responsive",
+  },
+  {
+    name: "Corporate Website",
+    image: pic,
+    skills: "React JS,React Bootstrap , HTML,CSS",
+    link: "https://corporate-csks.onrender.com/",
+    desc: "This Project Contains Header , Footer , Hero , Contact , About , Price And Many More Funtionality Also its Responsive",
   },
   {
     name: "Blog App",
